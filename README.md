@@ -1,4 +1,4 @@
-# Go API client for openapi
+# Go API client for things
 
 Bosch IoT Things enables applications to manage digital twins of IoT device assets in a simple, convenient, robust, and secure way.
 
@@ -27,7 +27,7 @@ go get github.com/antihax/optional
 Put the package under your project folder and add the following in import:
 
 ```golang
-import "./openapi"
+import "./things"
 ```
 
 ## Documentation for API Endpoints
